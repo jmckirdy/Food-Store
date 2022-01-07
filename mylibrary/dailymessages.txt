@@ -1,0 +1,11 @@
+Hello Admin! This is the 'Back-End' manager site area. On the left side panel you can 'add new products' with pictures, modify existing products, add categories, process pending orders, check what is out of stock or running low and generate sales reports exported to an excel spreadsheet.
+
+Back-End Admin Site: localhost/store/admin/admin.php
+Customer Site: localhost/store/index.php
+
+Things left to do for this app:
+
+-Get date function working properly, it is several hours ahead.
+-Get Session cookies working properly, I think they need to be unset.
+-Fix the error messages in the link 'products currently on sale' part of site.
+-Add 'Delete category' section.
