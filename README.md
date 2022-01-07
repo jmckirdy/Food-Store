@@ -5,8 +5,9 @@ It's a customer-facing online shopping experience that allows for selecting item
 
 Also there is an administrative-facing web interface, allowing store managers to add new products and modify existing ones, monitor stock levels, and process customer orders.
 
-Customer side should be located at localhost/Food-Store
-Admin should be at localhost/Food-Store/admin/admin.php
+Customer-side should be located at localhost/Food-Store.
+
+Admin-should be at localhost/Food-Store/admin/admin.php.
 
 It uses a mySQL database which allows for complex tasks like search functionality, storing and retrieving binary data, handling transactions, implementing shopping carts, and generating downloadable Excel reports.
 
