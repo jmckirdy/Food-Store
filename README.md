@@ -7,7 +7,7 @@ Also there is an administrative-facing web interface, allowing store managers to
 
 Customer-side should be located at localhost/Food-Store.
 
-Admin-should be at localhost/Food-Store/admin/admin.php.
+Admin-side should be at localhost/Food-Store/admin/admin.php.
 
 It uses a mySQL database which allows for complex tasks like search functionality, storing and retrieving binary data, handling transactions, implementing shopping carts, and generating downloadable Excel reports.
 
